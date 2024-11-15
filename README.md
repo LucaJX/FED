@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Luca Lam (vervangen door jouw naam)
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-Blauw (kies uit zwart, rood óf blauw)
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  surface plane
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,12 +36,10 @@ Blauw (kies uit zwart, rood óf blauw)
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
- https://berriemoo.com/
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  src="https://github.com/user-attachments/assets/54d930e4-02ee-4dac-8342-094b8e2358c9">
-
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
