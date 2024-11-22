@@ -1,0 +1,249 @@
+/****************/
+/* SAIRA NORMAL */
+/****************/
+/* @font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+/***********************/
+/* SAIRA NORMAL ITALIC */
+/***********************/
+/* @font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* @font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira";
+  src: url("https://assets.codepen.io/274456/Saira-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+
+
+/************************/
+/* SAIRA SEMI-CONDENSED */
+/************************/
+/* @font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+/*******************************/
+/* SAIRA SEMI-CONDENSED ITALIC */
+/*******************************/
+/* @font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* @font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira Semi Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_SemiCondensed-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+
+
+/**************************/
+/* SAIRA CONDENSED NORMAL */
+/**************************/
+/* @font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+/**************************/
+/* SAIRA CONDENSED ITALIC */
+/**************************/
+/* @font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* @font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+} */
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("https://assets.codepen.io/274456/Saira_Condensed-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
+
+
+* {
+	font-family:Saira, sans-serif;
+}
