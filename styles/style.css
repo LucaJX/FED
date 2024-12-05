@@ -14,7 +14,10 @@
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
+	/* startje 
+	backgroung-color: var();
+	
+	*/
 	--color-text:#111;
 	--color-background:#eee;
 }
