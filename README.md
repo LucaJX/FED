@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Luca Lam
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  hier je startniveau blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ responsive 
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+ www.berriemoo.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -94,6 +94,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
+  niet gedaan met groepje
+
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
@@ -104,10 +106,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - aria-labels voor toegankelijkheid
+  - de auteur van de pagina veranderen
+  - logo van de tabblad veranderen
+  - vooral veel met mijn mede studenten meegekeken
 
 </details>
 
@@ -123,9 +125,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  ging goed:
+  - html
+  - het indelen van de css
+
+  was lastig:
+  - positioneren
+  - custum properties
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  niet gedaan met groepje
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -137,11 +147,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+  - Html en css zagen er goed uit
+  - custom properties maken
+  - html validaten
+  - responsiveness beter maken
 </details>
 
 
@@ -170,9 +179,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  ging goed:
+  - positioneren ging beter
+  - html
+  - aanroepen van children in de css
 
+  Was lastig:
+  - Javascript, kleine dingentjes zelf aanpassen zonder hulp
+  - gebruiken van grid
+  - door het gebruiken van twee css files op een html liep iksoms tegen dingen aan die elkaar tegen spraken
+
+  
   ### Agenda voor meeting
   samen met je groepje opstellen
+  niet gedaan
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -184,10 +204,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Het positioneren van mn menu
+  - grid oefenen met mede studenten
+  - kleine foutjes er uit gehaalt
+  - js verbetert
 
 </details>
 
