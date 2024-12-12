@@ -171,6 +171,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  - elke pagina heeft nu een heading
+  - een logischere indeling van h1, h2, h3
+  - toegangkelijk is hier en daar nog stroef
+  - k heb nog horizontal scrolling
+
 </details>
 
 
