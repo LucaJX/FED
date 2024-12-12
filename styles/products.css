@@ -28,7 +28,6 @@
         overflow: hidden;
         list-style-type: none;
         /* margin-top: 2em; */
-
     }
 
 
@@ -142,7 +141,7 @@
     main section:nth-of-type(1) >  div img {
         display: block;
         max-width: 15em;
-        max-height: 25em;
+        max-height: 15em;
     }
 
    
