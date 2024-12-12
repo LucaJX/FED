@@ -1,4 +1,4 @@
-# Procesverslag
+![berriemoo com_products_little-guys-halloween-series-blind-bag(iPhone SE)](https://github.com/user-attachments/assets/ab543592-1ff2-4c2d-9ff5-aae45a4a6b7f)# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -57,6 +57,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  niet elke pagina heeft een h1
+  de keyboard input begint niet bovenaan
+  conrast is niet altijd goed
+  img hebben links als alt tags
+  niet alle buttons hebben een tag
 
 </details>
 
@@ -68,7 +73,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/
+" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
