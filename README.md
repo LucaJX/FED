@@ -1,4 +1,4 @@
-Procesverslag
+# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Luca Lam
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
- responsive 
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
- www.berriemoo.com
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/screenshot1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/screenshot2.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -57,11 +57,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  niet elke pagina heeft een h1
-  de keyboard input begint niet bovenaan
-  conrast is niet altijd goed
-  img hebben links als alt tags
-  niet alle buttons hebben een tag
 
 </details>
 
@@ -73,8 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/
-" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -100,8 +94,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  niet gedaan met groepje
-
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
@@ -112,10 +104,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - aria-labels voor toegankelijkheid
-  - de auteur van de pagina veranderen
-  - logo van de tabblad veranderen
-  - vooral veel met mijn mede studenten meegekeken
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
 
 </details>
 
@@ -131,17 +123,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-  ging goed:
-  - html
-  - het indelen van de css
-
-  was lastig:
-  - positioneren
-  - custum properties
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-  niet gedaan met groepje
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -153,10 +137,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Html en css zagen er goed uit
-  - custom properties maken
-  - html validaten
-  - responsiveness beter maken
+  - punt 1
+  - punt 2
+  - nog een punt
+- ...
+
 </details>
 
 
@@ -170,11 +155,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
-  - elke pagina heeft nu een heading
-  - een logischere indeling van h1, h2, h3
-  - toegangkelijk is hier en daar nog stroef
-  - k heb nog horizontal scrolling
 
 </details>
 
@@ -190,20 +170,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-  ging goed:
-  - positioneren ging beter
-  - html
-  - aanroepen van children in de css
 
-  Was lastig:
-  - Javascript, kleine dingentjes zelf aanpassen zonder hulp
-  - gebruiken van grid
-  - door het gebruiken van twee css files op een html liep iksoms tegen dingen aan die elkaar tegen spraken
-
-  
   ### Agenda voor meeting
   samen met je groepje opstellen
-  niet gedaan
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -215,10 +184,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Het positioneren van mn menu
-  - grid oefenen met mede studenten
-  - kleine foutjes er uit gehaalt
-  - js verbetert
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
 
 </details>
 
@@ -232,19 +201,29 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/schome.png" width="375px" alt="uitomst opdracht 1">
+   <img src="readme-images/scshopall.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+ik heb geleerd om met custum properties te werken
+  <img src="readme-images/Screenshot 2024-12-12 at 14.24.31.png" width="375px" alt="top">
+
+ik heb geleerd een website responsive te maken met media query
+   <img src="readme-images/Screenshot 2024-12-12 at 14.24.39.png" width="375px" alt="top">
+
+ik heb geleerd positionern met grid en flex
+  <img src="readme-images/Screenshot 2024-12-12 at 14.25.12.png" width="375px" alt="top">
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  
+  javascript, het roepen van elementen en die elementen linken aan een functie
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Screenshot 2024-12-12 at 15.31.12.png" width="375px" alt="bummer">
 </details>
 
 
@@ -260,8 +239,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+
+bronnen:
+
+https://codepen.io/shooft/pen/JjQLVeB 
+https://codepen.io/ljx-l/pen/RwXzBBJ
+
+https://chatgpt.com/share/67589e01-e934-8010-bff2-5927d2a894d3
+- media query, grid en  menuButton.textContent = isMenuOpen ? "Close" : "Menu";, 
+
+https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
+
+
+
+
+
 
 </details>
