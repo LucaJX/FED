@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Luca lam
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+ blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ responsive
  
 </details>
 
@@ -39,12 +39,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ home pagina
+  <img src="readme-images/screenshot1.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+product pagina
+  <img src="readme-images/screenshot2.png" width="375px" alt="omschrijving van de pagina">
+
+  ### uitwerking
+  <img src="readme-images/uitwerking.png" width="375px" alt="plan uitwerking van de pagina">
  
 </details>
 
@@ -57,6 +60,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  -headings zijn niet goed, er missen h1 en h2
+  - niet toegengelijk, buttons hebben geen arialabels
+
 
 </details>
 
@@ -90,8 +97,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  die startup van de html ging goed. 
+  hele basic html pagina
+  nog geen css
+
 
   ### Agenda voor meeting
+  NIET GEDAAN
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -104,15 +116,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - gaat goed
+  - arialabels
+  - de taal van de site aanpassen
+  - icoon van tab
+
 
 </details>
-
-
-
 
 
 ## Voortgang 2 (week 3)
@@ -123,8 +133,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Html en css opgestelt
+  css was hier en daar nog moeilijk
+  borders gingen niet
+carrosel
 
   ### Agenda voor meeting
+  NIET GEDAAN
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -137,15 +152,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - carrousel gemaakt 
+  - borders gefixt
+  - html validator doen
 
 </details>
-
-
-
 
 
 ## Toegankelijkheidstest 2/2 (week 4)
@@ -154,7 +165,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is): 
+
+- headings zijn verbetert
+- Toegankelijkheid was niet overal even goed in echte site
+- aria labels en logische heading toegevoegd
 
 </details>
 
@@ -168,10 +183,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code):
 
+  grids gaan lastig
+  specefieke styling loop ik op vast
+
+  hamburger menu de items moeten nog gefixt worden met css
+  de footer grod moet beter alignen
+  de secties in de footers worden niet aangeroepen
+  sectie 4 (index) kan ik daar beter sectie of grid voor gebruiker?
+  font in buttons zijn anders
 
   ### Agenda voor meeting
+  NIET GEDAAN
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -184,10 +208,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - footer gefixt
+  - hamburger menu gefixt
 
 </details>
 
@@ -241,6 +263,7 @@ ik heb geleerd positionern met grid en flex
 
 
 bronnen:
+berriemoo.com, plaatjes
 
 https://codepen.io/shooft/pen/JjQLVeB 
 https://codepen.io/ljx-l/pen/RwXzBBJ
@@ -250,7 +273,7 @@ https://chatgpt.com/share/67589e01-e934-8010-bff2-5927d2a894d3
 
 https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
 
-
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity
 
 
 
